@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerViewProject</string>
+    <string name="users">Users</string>
+    <string name="profile">profile</string>
+    <string name="settings">Settings</string>
+    <string name="change_lang">Change Language</string>
+    <string name="search">Search</string>
+    <string name="profile_clicked">Profile Clicked</string>
+    <string name="settings_clicked">Settings Clicked</string>
+    <string name="search_clicked">Search Clicked</string>
+    <string name="lang_clicked">Language Clicked</string>
+</resources>
